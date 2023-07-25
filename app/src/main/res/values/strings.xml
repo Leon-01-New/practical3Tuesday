@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practical3Tuesday</string>
+    <string name="Box_One">Box_One</string>
+    <string name="Box_Two">Box_Two</string>
+    <string name="Box_Three">Box_Three</string>
+    <string name="Box_Four">Box_Four</string>
+    <string name="Box_Five">Box_Five</string>
+    <string name="how_to_play">How to play:</string>
+    <string name="tap_the_boxes_and_buttons">Tap the screen and buttons.</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">GREEN</string>
+</resources>
